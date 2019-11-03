@@ -1,0 +1,16 @@
+**/target/
+.project
+**/.settings
+**/.metadata
+**/.recommenders
+**/RemoteSystemsTempFiles
+.gradle
+/build/
+.idea
+.classpath
+*.iws
+*.iml
+*.ipr
+/out/
+/logs/app.log
+*VERSION.tmp
